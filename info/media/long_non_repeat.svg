@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="135mm"
+   height="26mm"
+   viewBox="0 0 135 26"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(0.62195307,-239.72803)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.69999981px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#294270;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="2.4769893"
+       y="251.17572"
+       id="text12"><tspan
+         id="tspan10"
+         x="2.4769893"
+         y="251.17572"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';letter-spacing:0.5291667px;fill:#294270;fill-opacity:1;stroke-width:0.26458332"
+         dx="0">'abdjwawk' == 'abdjw'</tspan></text>
+  </g>
+  <g
+     id="layer1-3"
+     transform="translate(-2.9787769,-220.57988)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.69999981px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#294270;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="3.149193"
+       y="243.78149"
+       id="text12-6"><tspan
+         id="tspan10-7"
+         x="3.149193"
+         y="243.78149"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.81944466px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';letter-spacing:0.5291667px;fill:#294270;fill-opacity:1;stroke-width:0.26458332">a=b=d=j=w</tspan></text>
+    <path
+       id="path950"
+       d="m 7.4343888,235.9103 c 12.2001422,0 24.4000202,0 36.5996322,0"
+       style="fill:none;stroke:#fa8f00;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path954"
+       d="m 44.034021,232.51212 c 0,1.26726 0,2.53478 0,3.80256"
+       style="fill:none;stroke:#fa8f00;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path954-3"
+       d="m 7.6484439,232.49643 c 0,1.26726 0,2.53478 0,3.80256"
+       style="fill:none;stroke:#fa8f00;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path954-3-6"
+       d="m 11.903842,238.45605 c -0.593972,1.52453 -1.188121,3.04951 -1.78245,4.57495"
+       style="fill:none;stroke:#294270;stroke-width:0.83132082;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path954-3-6-9"
+       d="m 22.925324,238.54519 c -0.593972,1.52453 -1.18812,3.04951 -1.78245,4.57495"
+       style="fill:none;stroke:#294270;stroke-width:0.83132082;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path954-3-6-2"
+       d="m 33.798267,238.54519 c -0.593972,1.52453 -1.18812,3.04951 -1.78245,4.57495"
+       style="fill:none;stroke:#294270;stroke-width:0.83132082;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path954-3-6-0"
+       d="m 41.997535,238.54519 c -0.593972,1.52453 -1.18812,3.04951 -1.78245,4.57495"
+       style="fill:none;stroke:#294270;stroke-width:0.83132082;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
